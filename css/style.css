@@ -1,0 +1,23 @@
+body {
+  background-color: #faebd6;
+}
+#glowny-tytul{
+  background-color: #db8a90;
+  color: #7a0c13;
+}
+#podtytul{
+  background-color: #db8ad7;
+  color: #4b0a47;
+}
+#lista{
+  background-color: #8adb8a;
+  color: #114b09;
+}
+#paragraf1 {
+  background-color: #7a7875;
+  color: black;
+}
+#paragraf2 {
+  background-color: #7a7c81;
+  color: #17347e;
+}
